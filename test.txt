@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 created locally
+=======
+created in github
+>>>>>>> d09ab5766e7206d84dc7df5e9404f469e8ee1361
+(merge conflict happened, and it's been solved)
